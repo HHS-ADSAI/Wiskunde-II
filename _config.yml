@@ -17,6 +17,6 @@ html:
   use_repository_button: true
   use_edit_page_button: true
 launch_buttons:
-  notebook_interface: "jupyterlab"  # or "classic"
+  notebook_interface: "classic"  # or "classic"
   thebe: true
   binderhub_url: "https://mybinder.org"
