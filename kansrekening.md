@@ -1,0 +1,5 @@
+# Kansrekening
+ffe
+
+```{tableofcontents}
+```
